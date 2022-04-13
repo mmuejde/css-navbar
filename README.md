@@ -1,3 +1,3 @@
-# repo-template
+# css-navbar
 
 ![](preview.gif)
